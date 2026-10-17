@@ -1,0 +1,11 @@
+/home/toxic/estate-scripts/tools/keep/target/debug/deps/i18n_embed-a02c0b1ea3fe94e7.d: /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/lib.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/assets.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/requester.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/util.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/fluent.rs
+
+/home/toxic/estate-scripts/tools/keep/target/debug/deps/libi18n_embed-a02c0b1ea3fe94e7.rlib: /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/lib.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/assets.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/requester.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/util.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/fluent.rs
+
+/home/toxic/estate-scripts/tools/keep/target/debug/deps/libi18n_embed-a02c0b1ea3fe94e7.rmeta: /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/lib.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/assets.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/requester.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/util.rs /home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/fluent.rs
+
+/home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/lib.rs:
+/home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/assets.rs:
+/home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/requester.rs:
+/home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/util.rs:
+/home/toxic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/i18n-embed-0.15.4/src/fluent.rs:
