@@ -1,0 +1,31 @@
+{
+  "name": "keep",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bun --hot run src/index.ts",
+    "test": "bun test",
+    "typecheck": "tsgo --noEmit -p tsconfig.json",
+    "lint": "biome lint src/",
+    "fmt": "biome format --write src/"
+  },
+  "bin": {
+    "keep": "src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "bun-types": "latest",
+    "typescript": "^5.3.3",
+    "@biomejs/biome": "^1.4.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@stablelib/age": "^2.0.0",
+    "@sqlite.org/sqlite-wasm": "^3.45.0",
+    "hono": "^4.0.0",
+    "zeroize": "github:noblejs/zeroize"
+  },
+  "type": "module"
+}
